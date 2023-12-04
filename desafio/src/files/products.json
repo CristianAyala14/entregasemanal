@@ -1,0 +1,13 @@
+[
+	{
+		"title": "yerba",
+		"description": "1",
+		"code": "1",
+		"price": "1",
+		"stock": "1",
+		"category": "1",
+		"thumbnail": "http://localhost:8080/product-imgs/1701666170686-roco.jpg",
+		"status": true,
+		"id": 1
+	}
+]
